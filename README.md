@@ -60,11 +60,11 @@ ollama pull nomic-embed-text
 Coloque o arquivo PDF com o material de introdução à programação na pasta `data/` com o nome `introducaoProgramacao.pdf`:
 
 ```
-projeto/
+RAG_Programa-o_Imperativa/
 ├── data/
 │   └── introducaoProgramacao.pdf
 ├── venv/
-└── seu_script.py
+└── main.py
 ```
 
 ## 🚀 Execução
@@ -84,13 +84,13 @@ Digite suas perguntas sobre introdução à programação e pressione 'q' para s
 ## 📁 Estrutura do Projeto
 
 ```
-rag-programacao/
+RAG_Programa-o_Imperativa/
 ├── data/
 │   └── introducaoProgramacao.pdf
 ├── venv/
 ├── requirements.txt
 ├── README.md
-└── rag_script.py
+└── main.py
 ```
 
 ## 📝 requirements.txt
