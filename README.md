@@ -22,8 +22,8 @@ Este projeto implementa um sistema RAG (Retrieval-Augmented Generation) para res
 ### 1. Clonar o repositório e acessar o diretório
 
 ```bash
-git clone <seu-repositorio>
-cd <nome-do-diretorio>
+git clone https://github.com/perishow/RAG_Programa-o_Imperativa.git
+cd RAG_Programa-o_Imperativa
 ```
 
 ### 2. Criar e ativar um ambiente virtual
